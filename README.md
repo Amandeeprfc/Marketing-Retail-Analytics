@@ -2,24 +2,37 @@
 Marketing &amp; Retail Analytics
 
 PART A: Agenda & Executive Summary of the data --
+
 •	Contents of the ppt  
+
 •	Problem statement  
+
 •	About Data (Info, Shape, Summary Stats, your assumptions about data)
 
 PART A: Exploratory Analysis and Inferences -- 
+
 •	Univariate, Bivariate, and multivariate analysis using data visualization (Weekly, Monthly, Quarterly, Yearly Trends in Sales. 
+
 •	Sales Across different Categories of different features in the given data Summarise the inferences
 
 PART A: Customer Segmentation using RFM analysis (4 segments) --
+
 •	What is RFM? 
+
 •	What all parameters used, and assumptions made? 
+
 •	Showcase the KNIME workflow image 
+
 •	What results are there in the output table head?
 
 PART A: Inferences from RFM Analysis and identified segments --
+
 •	Who are your 5 best customers?
+
 •	Which customers are on the verge of churning? (give at least 5) 
+
 •	Who are your lost customers? (give at least 5) 
+
 •	Who are your loyal customers?
 
 PART B: Exploratory Analysis --
