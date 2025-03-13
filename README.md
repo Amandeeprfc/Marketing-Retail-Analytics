@@ -3,8 +3,6 @@ Marketing &amp; Retail Analytics
 
 PART A: Agenda & Executive Summary of the data --
 
-•	Contents of the ppt  
-
 •	Problem statement  
 
 •	About Data (Info, Shape, Summary Stats, your assumptions about data)
@@ -36,18 +34,27 @@ PART A: Inferences from RFM Analysis and identified segments --
 •	Who are your loyal customers?
 
 PART B: Exploratory Analysis --
+
 •	Exploratory Analysis of data & an executive summary (in PPT) of your top findings, supported by graphs. 
+
 •	Are there trends across months/years/quarters/days etc. 
 
 PART B: Use of Market Basket Analysis (Association Rules) --
+
 •	Write Something about the association rules and its relevance in this case 
+
 •	Add KNIME workflow image 
+
 •	Write about threshold values of Support and Confidence
 
 PART B: Associations Identified --
+
 •	Put the associations in a tabular manner 
+
 •	Explain about support, confidence, & lift values that are calculated
 
 PART B: Suggestion of Possible Combos with Lucrative Offers --
+
 •	Write recommendations 
+
 •	Make discount offers or combos (or buy two get one free) based on the associations and your experience.
