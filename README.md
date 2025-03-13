@@ -1,5 +1,7 @@
 # Marketing-Retail-Analytics
-Marketing and Retail Analytics
+
+============================================================================================
+# Retail Analysis 
 
 PART A: Agenda & Executive Summary of the data --
 
