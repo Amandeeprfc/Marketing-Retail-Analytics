@@ -1,5 +1,5 @@
 # Marketing-Retail-Analytics
-Marketing &amp; Retail Analytics
+Marketing and Retail Analytics
 
 PART A: Agenda & Executive Summary of the data --
 
@@ -32,6 +32,9 @@ PART A: Inferences from RFM Analysis and identified segments --
 •	Who are your lost customers? (give at least 5) 
 
 •	Who are your loyal customers?
+
+=======================================================================================================================================================
+# Market Basket Analysis 
 
 PART B: Exploratory Analysis --
 
