@@ -33,7 +33,7 @@ PART A: Inferences from RFM Analysis and identified segments --
 
 •	Who are your loyal customers?
 
-=======================================================================================================================================================
+============================================================================================
 # Market Basket Analysis 
 
 PART B: Exploratory Analysis --
