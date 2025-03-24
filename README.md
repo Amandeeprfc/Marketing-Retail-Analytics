@@ -1,4 +1,4 @@
-# Marketing-Retail-Analytics Using KNIME
+# Marketing-Retail-Analytics Using KNIME and Python
 
 ============================================================================================
 # Retail Analysis 
