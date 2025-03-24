@@ -1,4 +1,4 @@
-# Marketing-Retail-Analytics
+# Marketing-Retail-Analytics Using KNIME
 
 ============================================================================================
 # Retail Analysis 
